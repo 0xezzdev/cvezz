@@ -1,17 +1,17 @@
-# موقعي الشخصي
+# Personal Portfolio Website
 
-موقع شخصي مبني باستخدام React و TypeScript، مع لوحة تحكم لإدارة المحتوى.
+A modern and responsive portfolio website built with React and TypeScript.
 
-## المميزات
+## Features
 
-- تصميم عصري وجذاب
-- لوحة تحكم كاملة لإدارة المحتوى
-- دعم كامل للغة العربية
-- تأثيرات حركية جميلة
-- واجهة مستخدم سهلة الاستخدام
-- تجربة مستخدم سلسة
+- Modern and attractive design
+- Full Arabic language support
+- Beautiful animations and transitions
+- User-friendly interface
+- Smooth user experience
+- Responsive design for all devices
 
-## التقنيات المستخدمة
+## Technologies Used
 
 - React
 - TypeScript
@@ -20,30 +20,25 @@
 - Framer Motion
 - Express.js (Backend)
 
-## التشغيل المحلي
+## Local Development
 
-1. تثبيت الاعتمادات:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-2. تشغيل الخادم:
+2. Start the server:
 ```bash
 cd server
 npm install
 npm run dev
 ```
 
-3. تشغيل واجهة المستخدم:
+3. Start the frontend:
 ```bash
 npm run dev
 ```
 
-## بيانات الدخول للوحة التحكم
+## License
 
-- اسم المستخدم: admin
-- كلمة المرور: admin123
-
-## الترخيص
-
-جميع الحقوق محفوظة © عز الدين محمد
+All Rights Reserved © Ezzeldeen Mohamed
